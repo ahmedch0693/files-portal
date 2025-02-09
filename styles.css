@@ -1,0 +1,60 @@
+/* style.css */
+
+/* Style de base pour la page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  /* En-tête */
+  header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  /* Navigation */
+  nav {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Section principale */
+  section {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* Liste de liens */
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  li a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    text-decoration: underline;
+  }
+  
